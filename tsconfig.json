@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "build",
+    "strict": false,
+    "lib": ["esnext"],
+    "target": "es5",
+    "skipLibCheck": true,
+    "downlevelIteration": true
+  },
+  "exclude": ["node_modules"]
+}
